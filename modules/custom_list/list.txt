@@ -12,7 +12,7 @@ modules/intelligence-gathering/massdns
 modules/intelligence-gathering/recon-ng
 modules/intelligence-gathering/spiderfoot
 modules/intelligence-gathering/theHarvester
-modules/intelligence-gathering/sniper
+#modules/intelligence-gathering/sniper
 modules/intelligence-gathering/dnsrecon
 modules/intelligence-gathering/discover
 modules/intelligence-gathering/awsbucket
@@ -32,9 +32,3 @@ modules/intelligence-gathering/sslscrape
 modules/intelligence-gathering/knockpy
 modules/intelligence-gathering/sublist3r
 modules/intelligence-gathering/subbrute
-
-
-
-
-
-
