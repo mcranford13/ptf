@@ -27,6 +27,12 @@ modules/vulnerability-analysis/droopescan
 modules/vulnerability-analysis/nikto
 modules/vulnerability-analysis/sslscan
 modules/vulnerability-analysis/wpscan
+modules/intelligence-gathering/censys-subdomain-finder
+modules/intelligence-gathering/sslscrape
+modules/intelligence-gathering/knockpy
+modules/intelligence-gathering/sublist3r
+modules/intelligence-gathering/subbrute
+
 
 
 
